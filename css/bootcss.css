@@ -1,0 +1,181 @@
+body {
+	font-family: "微软雅黑";
+}
+
+.navbar-default {
+	background-color: #fff;
+	border-color: none;
+	box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.22);
+}
+
+.navbar-default .navbar-brand {
+	color: #40D2B1;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+
+/*index1*/
+
+#index1 {
+	background: url(../img/home-bg.jpg);
+	background-size: cover;
+	/*height: 500px;*/
+	width: 100%;
+	color: #000;
+	color: #fefefe;
+	margin-top: 50px;
+	text-align: center;
+}
+
+#lvjin {
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	padding: 90px 0;
+}
+
+#index1 h1 {
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+
+#index1 img {
+	display: block;
+	margin-top: 30px;
+}
+
+#html5 {
+	text-align: center;
+	padding: 100px 0;
+}
+
+#luntan {
+	background: #f8f8f8;
+	padding: 80px 0;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+
+/*麦子*/
+
+.maizi {
+	background: rgb(64, 210, 177);
+	color: #fff;
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 20px;
+}
+
+#luntan1 {
+	padding: 80px 0;
+}
+/*课程*/
+#kecheng {
+	background: #f8f8f8;
+	/*padding: 100px 0;*/
+	text-align: center;
+	
+}
+.textimg{
+		background: #fff;
+		margin: 0 auto;
+		padding-bottom: 30px;
+		margin-bottom:20px;
+		
+		
+		
+	}
+	.textimg img{
+			margin: 0 auto;
+		}
+	.textimg p{
+			text-align: center;
+		}
+#kecheng h4{
+	width: 100%;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 66px;
+	
+	
+}
+
+#anniu{
+	
+	border-radius:0 ;
+	border: 1px #40d2b1 solid;
+	
+	text-align: center;
+	
+	margin-top: 20px;
+}
+/*app*/
+#app{
+	padding: 80px 0;
+}
+#app .btn{
+	border-radius:0 ;
+	background: #40d2b1;
+	padding: 5px 10px;
+	border: 0;
+}
+#app h3{
+	margin-bottom: 56px;
+}
+#app p{
+	margin-bottom: 20px;
+}
+/*lainxi*/
+#lianxi{
+	background: url(../img/contact-bg.png)no-repeat;
+	background-size: cover;
+	width: 100%;
+	
+
+}
+#touming{
+	background: rgba(0,0,0,0.7);
+	width: 100%;
+	
+	padding-top: 90px;
+	padding-bottom: 106px;
+}
+ #touming h2{
+		color: #fff;
+		margin-bottom: 35px;
+	}
+	#touming p{
+		color: #fff;
+		margin-bottom: 30px;
+	}
+	#touming span{
+		margin-right: 20px;
+	}
+#touming input{
+	margin-bottom: 20px;
+	height: 50px;
+}	
+
+#touming textarea{
+	height: 100px;
+	margin-bottom: 20px;
+}
+#touming button{
+	height: 50px;
+	border: 0;
+	border-radius:0 ;
+	background: #3fd1b0;
+}
+.footer{
+	height: 71px;
+	text-align: center;
+	line-height: 70px;
+}
